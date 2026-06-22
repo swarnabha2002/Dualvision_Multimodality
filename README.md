@@ -80,8 +80,10 @@ The **QA annotations** are released here under `data/v1/`:
 Every training sample feeds the model **both modalities** (RGB + IR) regardless of which
 one the question targets.
 
-> **Upcoming:** we are preparing an upgraded, larger annotation set verified with a
-> stronger model (Claude Opus), coming soon.
+### 🚀 Coming soon: an upgraded dataset
+
+> We are preparing a **larger, higher-quality annotation set**, verified with a stronger
+> model (**Claude Opus 4.8**), with denser modality-aware QA. **Stay tuned — coming soon!**
 
 ### Arranging the images
 
