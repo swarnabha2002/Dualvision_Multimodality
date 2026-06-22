@@ -1,0 +1,500 @@
+{"image": "10792.jpg", "text": "Is the sky bright and clear in the RGB image?", "ground_truth_answer": "No", "question_id": 1, "category": "rgb", "q_category": "rgb"}
+{"image": "28209.jpg", "text": "Are the trees in the image full of green leaves?", "ground_truth_answer": "No", "question_id": 3, "category": "rgb", "q_category": "rgb"}
+{"image": "19316.jpg", "text": "Is the architectural style of the surrounding buildings Victorian?", "ground_truth_answer": "Yes", "question_id": 5, "category": "rgb", "q_category": "rgb"}
+{"image": "02190.jpg", "text": "Is the corridor brightly lit throughout?", "ground_truth_answer": "No", "question_id": 7, "category": "rgb", "q_category": "rgb"}
+{"image": "15836.jpg", "text": "Is the sky predominantly grey in color?", "ground_truth_answer": "Yes", "question_id": 9, "category": "rgb", "q_category": "rgb"}
+{"image": "35602.jpg", "text": "Is there a modern glass extension visible on the building's facade?", "ground_truth_answer": "Yes", "question_id": 11, "category": "rgb", "q_category": "rgb"}
+{"image": "02414.jpg", "text": "Is the water feature illuminated with warm golden lighting?", "ground_truth_answer": "Yes", "question_id": 13, "category": "rgb", "q_category": "rgb"}
+{"image": "17452.jpg", "text": "Is there a bare tree branch visible in the left corner?", "ground_truth_answer": "Yes", "question_id": 15, "category": "rgb", "q_category": "rgb"}
+{"image": "31202.jpg", "text": "Are the trees full of green leaves?", "ground_truth_answer": "No", "question_id": 17, "category": "rgb", "q_category": "rgb"}
+{"image": "19312.jpg", "text": "Does the store's tagline mention 'CLEAN, BALANCED, NUTRITIOUS'?", "ground_truth_answer": "Yes", "question_id": 19, "category": "rgb", "q_category": "rgb"}
+{"image": "16856.jpg", "text": "Does the sky show a uniform blue color throughout?", "ground_truth_answer": "No", "question_id": 21, "category": "rgb", "q_category": "rgb"}
+{"image": "37806.jpg", "text": "Is there green vegetation visible on the hillside?", "ground_truth_answer": "Yes", "question_id": 23, "category": "rgb", "q_category": "rgb"}
+{"image": "31246.jpg", "text": "Is it bright daylight in the scene?", "ground_truth_answer": "No", "question_id": 25, "category": "rgb", "q_category": "rgb"}
+{"image": "29693.jpg", "text": "Are the outdoor umbrellas colored cream?", "ground_truth_answer": "Yes", "question_id": 27, "category": "rgb", "q_category": "rgb"}
+{"image": "07014.jpg", "text": "Is the sky bright and clear in the RGB image?", "ground_truth_answer": "No", "question_id": 29, "category": "rgb", "q_category": "rgb"}
+{"image": "17756.jpg", "text": "Is this scene captured during daytime?", "ground_truth_answer": "No", "question_id": 31, "category": "rgb", "q_category": "rgb"}
+{"image": "13916.jpg", "text": "Does the architecture appear to be modern style?", "ground_truth_answer": "No", "question_id": 33, "category": "rgb", "q_category": "rgb"}
+{"image": "17412.jpg", "text": "Are the trees along the bridge full of leaves in the RGB image?", "ground_truth_answer": "No", "question_id": 35, "category": "rgb", "q_category": "rgb"}
+{"image": "13636.jpg", "text": "Are the deciduous trees showing full foliage?", "ground_truth_answer": "No", "question_id": 37, "category": "rgb", "q_category": "rgb"}
+{"image": "30786.jpg", "text": "Is the sky dark or overcast in the image?", "ground_truth_answer": "No", "question_id": 39, "category": "rgb", "q_category": "rgb"}
+{"image": "01806.jpg", "text": "Are there green wheelie bins visible in the image?", "ground_truth_answer": "Yes", "question_id": 41, "category": "rgb", "q_category": "rgb"}
+{"image": "12528.jpg", "text": "Is there a lime-green colored building in the RGB image?", "ground_truth_answer": "Yes", "question_id": 43, "category": "rgb", "q_category": "rgb"}
+{"image": "17192.jpg", "text": "Is the grass lawn brown in color?", "ground_truth_answer": "No", "question_id": 45, "category": "rgb", "q_category": "rgb"}
+{"image": "18360.jpg", "text": "Are there visible road markings saying 'KEEP CLEAR' on the asphalt?", "ground_truth_answer": "Yes", "question_id": 47, "category": "rgb", "q_category": "rgb"}
+{"image": "27793.jpg", "text": "Is there a black lamp post present in the middle of the frame?", "ground_truth_answer": "Yes", "question_id": 49, "category": "rgb", "q_category": "rgb"}
+{"image": "19064.jpg", "text": "Are the buildings painted in bright modern colors?", "ground_truth_answer": "No", "question_id": 51, "category": "rgb", "q_category": "rgb"}
+{"image": "34566.jpg", "text": "Are the buildings constructed with red brick?", "ground_truth_answer": "Yes", "question_id": 53, "category": "rgb", "q_category": "rgb"}
+{"image": "27669.jpg", "text": "Is it a sunny day in the image?", "ground_truth_answer": "No", "question_id": 55, "category": "rgb", "q_category": "rgb"}
+{"image": "08506.jpg", "text": "Are the fallen leaves on the ground brown and orange in color?", "ground_truth_answer": "Yes", "question_id": 57, "category": "rgb", "q_category": "rgb"}
+{"image": "24325.jpg", "text": "Is the building's brick color blue?", "ground_truth_answer": "No", "question_id": 59, "category": "rgb", "q_category": "rgb"}
+{"image": "04406.jpg", "text": "Is the metal fence painted blue?", "ground_truth_answer": "No", "question_id": 61, "category": "rgb", "q_category": "rgb"}
+{"image": "09659.jpg", "text": "Is the sky bright and clear in the RGB image?", "ground_truth_answer": "No", "question_id": 63, "category": "rgb", "q_category": "rgb"}
+{"image": "14996.jpg", "text": "Does the building have painted trim around the windows?", "ground_truth_answer": "Yes", "question_id": 65, "category": "rgb", "q_category": "rgb"}
+{"image": "22681.jpg", "text": "Are there palm trees visible in the front gardens?", "ground_truth_answer": "Yes", "question_id": 67, "category": "rgb", "q_category": "rgb"}
+{"image": "19076.jpg", "text": "Is the street made of sandstone buildings with classical facades?", "ground_truth_answer": "Yes", "question_id": 69, "category": "rgb", "q_category": "rgb"}
+{"image": "24845.jpg", "text": "Is the sidewalk made of red brick in the RGB image?", "ground_truth_answer": "No", "question_id": 71, "category": "rgb", "q_category": "rgb"}
+{"image": "27673.jpg", "text": "Is the stone color of the buildings beige/brown in the RGB image?", "ground_truth_answer": "Yes", "question_id": 73, "category": "rgb", "q_category": "rgb"}
+{"image": "24477.jpg", "text": "Are there blue decorative lights visible in the background of the RGB image?", "ground_truth_answer": "Yes", "question_id": 75, "category": "rgb", "q_category": "rgb"}
+{"image": "10048.jpg", "text": "Is the predominant color of the buildings sandstone?", "ground_truth_answer": "Yes", "question_id": 77, "category": "rgb", "q_category": "rgb"}
+{"image": "18696.jpg", "text": "Is this a daytime scene in the RGB image?", "ground_truth_answer": "No", "question_id": 79, "category": "rgb", "q_category": "rgb"}
+{"image": "26377.jpg", "text": "Does the wall have a wooden texture?", "ground_truth_answer": "No", "question_id": 81, "category": "rgb", "q_category": "rgb"}
+{"image": "06238.jpg", "text": "Is it nighttime in the image?", "ground_truth_answer": "No", "question_id": 83, "category": "rgb", "q_category": "rgb"}
+{"image": "14884.jpg", "text": "Does the building have a red-tiled roof?", "ground_truth_answer": "Yes", "question_id": 85, "category": "rgb", "q_category": "rgb"}
+{"image": "11820.jpg", "text": "Are there glass facades visible on the buildings in the RGB image?", "ground_truth_answer": "Yes", "question_id": 87, "category": "rgb", "q_category": "rgb"}
+{"image": "20289.jpg", "text": "Is it bright daylight in this image?", "ground_truth_answer": "No", "question_id": 89, "category": "rgb", "q_category": "rgb"}
+{"image": "29053.jpg", "text": "Are the window frames painted brown?", "ground_truth_answer": "No", "question_id": 91, "category": "rgb", "q_category": "rgb"}
+{"image": "38150.jpg", "text": "Are the buildings reddish-brown in color?", "ground_truth_answer": "Yes", "question_id": 93, "category": "rgb", "q_category": "rgb"}
+{"image": "08450.jpg", "text": "Is there a blue-colored lawn in front of the building?", "ground_truth_answer": "No", "question_id": 95, "category": "rgb", "q_category": "rgb"}
+{"image": "30290.jpg", "text": "Does the stonework appear bright and newly constructed?", "ground_truth_answer": "No", "question_id": 97, "category": "rgb", "q_category": "rgb"}
+{"image": "02094.jpg", "text": "Is there a white vehicle visible in the background?", "ground_truth_answer": "Yes", "question_id": 99, "category": "rgb", "q_category": "rgb"}
+{"image": "14928.jpg", "text": "Are the trees in the image full of leaves?", "ground_truth_answer": "No", "question_id": 101, "category": "rgb", "q_category": "rgb"}
+{"image": "27509.jpg", "text": "Is there a lamp post present in the center of the frame?", "ground_truth_answer": "Yes", "question_id": 103, "category": "rgb", "q_category": "rgb"}
+{"image": "15816.jpg", "text": "Does the scene appear to be photographed during midday?", "ground_truth_answer": "No", "question_id": 105, "category": "rgb", "q_category": "rgb"}
+{"image": "23685.jpg", "text": "Are the pillars painted in bright colors?", "ground_truth_answer": "No", "question_id": 107, "category": "rgb", "q_category": "rgb"}
+{"image": "39306.jpg", "text": "Are the waves showing white caps in the RGB image?", "ground_truth_answer": "Yes", "question_id": 109, "category": "rgb", "q_category": "rgb"}
+{"image": "09263.jpg", "text": "Are the buildings constructed with grey stone?", "ground_truth_answer": "Yes", "question_id": 111, "category": "rgb", "q_category": "rgb"}
+{"image": "08038.jpg", "text": "Is there decorative ironwork visible on the buildings?", "ground_truth_answer": "Yes", "question_id": 113, "category": "rgb", "q_category": "rgb"}
+{"image": "31614.jpg", "text": "Is the building constructed with golden-colored bricks?", "ground_truth_answer": "Yes", "question_id": 115, "category": "rgb", "q_category": "rgb"}
+{"image": "39526.jpg", "text": "Are the street lamps modern in style in the RGB image?", "ground_truth_answer": "Yes", "question_id": 117, "category": "rgb", "q_category": "rgb"}
+{"image": "25153.jpg", "text": "Are the buildings brightly illuminated by natural light?", "ground_truth_answer": "No", "question_id": 119, "category": "rgb", "q_category": "rgb"}
+{"image": "25641.jpg", "text": "Is the street lighting currently illuminated?", "ground_truth_answer": "No", "question_id": 121, "category": "rgb", "q_category": "rgb"}
+{"image": "16260.jpg", "text": "Is the picnic table painted in bright colors?", "ground_truth_answer": "No", "question_id": 123, "category": "rgb", "q_category": "rgb"}
+{"image": "11304.jpg", "text": "Does the building feature ornate Victorian-era decorative elements?", "ground_truth_answer": "Yes", "question_id": 125, "category": "rgb", "q_category": "rgb"}
+{"image": "08983.jpg", "text": "Are the trees covered with green leaves?", "ground_truth_answer": "No", "question_id": 127, "category": "rgb", "q_category": "rgb"}
+{"image": "30042.jpg", "text": "Is the building painted in bright modern colors?", "ground_truth_answer": "No", "question_id": 129, "category": "rgb", "q_category": "rgb"}
+{"image": "32574.jpg", "text": "Is there a mix of evergreen and deciduous trees visible?", "ground_truth_answer": "Yes", "question_id": 131, "category": "rgb", "q_category": "rgb"}
+{"image": "40819.jpg", "text": "Is the lighthouse painted black?", "ground_truth_answer": "No", "question_id": 133, "category": "rgb", "q_category": "rgb"}
+{"image": "02966.jpg", "text": "Is this image taken during daytime?", "ground_truth_answer": "No", "question_id": 135, "category": "rgb", "q_category": "rgb"}
+{"image": "03970.jpg", "text": "Does the building have dark green trim?", "ground_truth_answer": "Yes", "question_id": 137, "category": "rgb", "q_category": "rgb"}
+{"image": "16192.jpg", "text": "Is the house in the background painted blue?", "ground_truth_answer": "No", "question_id": 139, "category": "rgb", "q_category": "rgb"}
+{"image": "29349.jpg", "text": "Is the sky completely clear in the RGB image?", "ground_truth_answer": "No", "question_id": 141, "category": "rgb", "q_category": "rgb"}
+{"image": "07842.jpg", "text": "Is the park bench blue in color?", "ground_truth_answer": "No", "question_id": 143, "category": "rgb", "q_category": "rgb"}
+{"image": "07882.jpg", "text": "Are there yellow lines painted on the road?", "ground_truth_answer": "Yes", "question_id": 145, "category": "rgb", "q_category": "rgb"}
+{"image": "18208.jpg", "text": "Is the stone of the tower light colored?", "ground_truth_answer": "No", "question_id": 147, "category": "rgb", "q_category": "rgb"}
+{"image": "05658.jpg", "text": "Are the disabled parking space lines painted in blue?", "ground_truth_answer": "No", "question_id": 149, "category": "rgb", "q_category": "rgb"}
+{"image": "27677.jpg", "text": "Is the grassy area in the foreground brown in color?", "ground_truth_answer": "No", "question_id": 151, "category": "rgb", "q_category": "rgb"}
+{"image": "27449.jpg", "text": "Are the clouds dark gray in color?", "ground_truth_answer": "Yes", "question_id": 153, "category": "rgb", "q_category": "rgb"}
+{"image": "09571.jpg", "text": "Is the sky bright blue and sunny?", "ground_truth_answer": "No", "question_id": 155, "category": "rgb", "q_category": "rgb"}
+{"image": "17544.jpg", "text": "Is it nighttime in the image?", "ground_truth_answer": "No", "question_id": 157, "category": "rgb", "q_category": "rgb"}
+{"image": "35134.jpg", "text": "Are there blue umbrellas visible on the outdoor seating area?", "ground_truth_answer": "Yes", "question_id": 159, "category": "rgb", "q_category": "rgb"}
+{"image": "37074.jpg", "text": "Are the interior lights visible through the windows?", "ground_truth_answer": "Yes", "question_id": 161, "category": "rgb", "q_category": "rgb"}
+{"image": "05258.jpg", "text": "Does the grass appear well-maintained and trimmed?", "ground_truth_answer": "Yes", "question_id": 163, "category": "rgb", "q_category": "rgb"}
+{"image": "12868.jpg", "text": "Is the sky bright blue and clear?", "ground_truth_answer": "No", "question_id": 165, "category": "rgb", "q_category": "rgb"}
+{"image": "17644.jpg", "text": "Is the building illuminated with purple accent lighting?", "ground_truth_answer": "Yes", "question_id": 167, "category": "rgb", "q_category": "rgb"}
+{"image": "05102.jpg", "text": "Is the building's exterior made of brick?", "ground_truth_answer": "Yes", "question_id": 169, "category": "rgb", "q_category": "rgb"}
+{"image": "09235.jpg", "text": "Are the streets paved with asphalt?", "ground_truth_answer": "No", "question_id": 171, "category": "rgb", "q_category": "rgb"}
+{"image": "34074.jpg", "text": "Is the water in the river clear and blue?", "ground_truth_answer": "No", "question_id": 173, "category": "rgb", "q_category": "rgb"}
+{"image": "07870.jpg", "text": "Are all the trees in the scene fully covered with green leaves?", "ground_truth_answer": "No", "question_id": 175, "category": "rgb", "q_category": "rgb"}
+{"image": "18544.jpg", "text": "Is the building's roof made of black slate or lead material?", "ground_truth_answer": "Yes", "question_id": 177, "category": "rgb", "q_category": "rgb"}
+{"image": "38210.jpg", "text": "Is there a yellow buoy visible in the water?", "ground_truth_answer": "Yes", "question_id": 179, "category": "rgb", "q_category": "rgb"}
+{"image": "28489.jpg", "text": "Are the trees in the RGB image full of leaves?", "ground_truth_answer": "No", "question_id": 181, "category": "rgb", "q_category": "rgb"}
+{"image": "00373.jpg", "text": "Is it a cloudy, overcast day in the image?", "ground_truth_answer": "No", "question_id": 183, "category": "rgb", "q_category": "rgb"}
+{"image": "13156.jpg", "text": "Is the water surface reflective and mirror-like?", "ground_truth_answer": "Yes", "question_id": 185, "category": "rgb", "q_category": "rgb"}
+{"image": "07346.jpg", "text": "Is the grass brown and dead?", "ground_truth_answer": "No", "question_id": 187, "category": "rgb", "q_category": "rgb"}
+{"image": "40563.jpg", "text": "Is it raining or cloudy in the image?", "ground_truth_answer": "No", "question_id": 189, "category": "rgb", "q_category": "rgb"}
+{"image": "12788.jpg", "text": "Is there a single waterfowl swimming on the water?", "ground_truth_answer": "Yes", "question_id": 191, "category": "rgb", "q_category": "rgb"}
+{"image": "35682.jpg", "text": "Is the Victorian-era building's stonework brown in color?", "ground_truth_answer": "Yes", "question_id": 193, "category": "rgb", "q_category": "rgb"}
+{"image": "26609.jpg", "text": "Is the building's facade white or cream-colored?", "ground_truth_answer": "Yes", "question_id": 195, "category": "rgb", "q_category": "rgb"}
+{"image": "37606.jpg", "text": "Are the window frames painted in a bright white color?", "ground_truth_answer": "No", "question_id": 197, "category": "rgb", "q_category": "rgb"}
+{"image": "18192.jpg", "text": "Is this scene captured during daytime?", "ground_truth_answer": "No", "question_id": 199, "category": "rgb", "q_category": "rgb"}
+{"image": "26269.jpg", "text": "Are there blue directional signs on the building?", "ground_truth_answer": "Yes", "question_id": 201, "category": "rgb", "q_category": "rgb"}
+{"image": "15704.jpg", "text": "Is there a circular rose window visible on the church facade?", "ground_truth_answer": "Yes", "question_id": 203, "category": "rgb", "q_category": "rgb"}
+{"image": "20345.jpg", "text": "Is it a bright sunny daytime scene?", "ground_truth_answer": "No", "question_id": 205, "category": "rgb", "q_category": "rgb"}
+{"image": "05186.jpg", "text": "Are the walls of the building white in color?", "ground_truth_answer": "No", "question_id": 207, "category": "rgb", "q_category": "rgb"}
+{"image": "02870.jpg", "text": "Is the building constructed of red brick?", "ground_truth_answer": "Yes", "question_id": 209, "category": "rgb", "q_category": "rgb"}
+{"image": "02090.jpg", "text": "Are there fallen autumn leaves on the ground in the RGB image?", "ground_truth_answer": "Yes", "question_id": 211, "category": "rgb", "q_category": "rgb"}
+{"image": "15696.jpg", "text": "Is there daylight visible at the end of the tunnel?", "ground_truth_answer": "Yes", "question_id": 213, "category": "rgb", "q_category": "rgb"}
+{"image": "10772.jpg", "text": "Is it a sunny day in the RGB image?", "ground_truth_answer": "No", "question_id": 215, "category": "rgb", "q_category": "rgb"}
+{"image": "16312.jpg", "text": "Is the grass uniformly maintained throughout the field?", "ground_truth_answer": "No", "question_id": 217, "category": "rgb", "q_category": "rgb"}
+{"image": "05738.jpg", "text": "Is it daytime in the image?", "ground_truth_answer": "No", "question_id": 219, "category": "rgb", "q_category": "rgb"}
+{"image": "23513.jpg", "text": "Is the scene captured during twilight hours?", "ground_truth_answer": "Yes", "question_id": 221, "category": "rgb", "q_category": "rgb"}
+{"image": "10260.jpg", "text": "Is this image taken during daytime?", "ground_truth_answer": "No", "question_id": 223, "category": "rgb", "q_category": "rgb"}
+{"image": "09695.jpg", "text": "Is Arthur's Seat mountain visible in the background?", "ground_truth_answer": "Yes", "question_id": 225, "category": "rgb", "q_category": "rgb"}
+{"image": "01050.jpg", "text": "Are the trees showing bright green foliage?", "ground_truth_answer": "No", "question_id": 227, "category": "rgb", "q_category": "rgb"}
+{"image": "03374.jpg", "text": "Are there green trees visible in the scene?", "ground_truth_answer": "No", "question_id": 229, "category": "rgb", "q_category": "rgb"}
+{"image": "29329.jpg", "text": "Are the window frames painted black?", "ground_truth_answer": "No", "question_id": 231, "category": "rgb", "q_category": "rgb"}
+{"image": "28593.jpg", "text": "Are the railings on the platform wooden?", "ground_truth_answer": "No", "question_id": 233, "category": "rgb", "q_category": "rgb"}
+{"image": "29449.jpg", "text": "Are the geese brown or gray in color?", "ground_truth_answer": "Yes", "question_id": 235, "category": "rgb", "q_category": "rgb"}
+{"image": "11688.jpg", "text": "Does the water appear rough and choppy?", "ground_truth_answer": "No", "question_id": 237, "category": "rgb", "q_category": "rgb"}
+{"image": "28785.jpg", "text": "Is the statue in front of the church made of gold?", "ground_truth_answer": "No", "question_id": 239, "category": "rgb", "q_category": "rgb"}
+{"image": "26689.jpg", "text": "Is the building illuminated with warm yellow light from within?", "ground_truth_answer": "Yes", "question_id": 241, "category": "rgb", "q_category": "rgb"}
+{"image": "04266.jpg", "text": "Is it daytime in the image?", "ground_truth_answer": "No", "question_id": 243, "category": "rgb", "q_category": "rgb"}
+{"image": "12356.jpg", "text": "Are there white LED light strips visible on the ceiling in the RGB image?", "ground_truth_answer": "Yes", "question_id": 245, "category": "rgb", "q_category": "rgb"}
+{"image": "20937.jpg", "text": "Is there a Union Jack flag flying on top of the building?", "ground_truth_answer": "Yes", "question_id": 247, "category": "rgb", "q_category": "rgb"}
+{"image": "18736.jpg", "text": "Is the sky bright and clear?", "ground_truth_answer": "No", "question_id": 249, "category": "rgb", "q_category": "rgb"}
+{"image": "09699.jpg", "text": "Are all the buildings in the image white in color?", "ground_truth_answer": "No", "question_id": 251, "category": "rgb", "q_category": "rgb"}
+{"image": "24409.jpg", "text": "Is the building painted in bright colors?", "ground_truth_answer": "No", "question_id": 253, "category": "rgb", "q_category": "rgb"}
+{"image": "13892.jpg", "text": "Is the sky bright blue in the RGB image?", "ground_truth_answer": "No", "question_id": 255, "category": "rgb", "q_category": "rgb"}
+{"image": "12760.jpg", "text": "Is the water surface creating mirror-like reflections?", "ground_truth_answer": "Yes", "question_id": 257, "category": "rgb", "q_category": "rgb"}
+{"image": "17796.jpg", "text": "Is it daytime in the RGB image?", "ground_truth_answer": "No", "question_id": 259, "category": "rgb", "q_category": "rgb"}
+{"image": "30466.jpg", "text": "Is the brickwork in pristine, new condition?", "ground_truth_answer": "No", "question_id": 261, "category": "rgb", "q_category": "rgb"}
+{"image": "02806.jpg", "text": "Are the trees showing autumn colors in the RGB image?", "ground_truth_answer": "Yes", "question_id": 263, "category": "rgb", "q_category": "rgb"}
+{"image": "33162.jpg", "text": "Are there green leaves visible on the trees?", "ground_truth_answer": "No", "question_id": 265, "category": "rgb", "q_category": "rgb"}
+{"image": "11636.jpg", "text": "Are the lighting fixtures between the windows gold in color?", "ground_truth_answer": "No", "question_id": 267, "category": "rgb", "q_category": "rgb"}
+{"image": "06746.jpg", "text": "Is the building constructed with brick material?", "ground_truth_answer": "Yes", "question_id": 269, "category": "rgb", "q_category": "rgb"}
+{"image": "26777.jpg", "text": "Is the scene captured during daytime?", "ground_truth_answer": "No", "question_id": 271, "category": "rgb", "q_category": "rgb"}
+{"image": "27601.jpg", "text": "Are the decorative railings on the windows painted white?", "ground_truth_answer": "No", "question_id": 273, "category": "rgb", "q_category": "rgb"}
+{"image": "27349.jpg", "text": "Is the sky bright blue?", "ground_truth_answer": "No", "question_id": 275, "category": "rgb", "q_category": "rgb"}
+{"image": "38234.jpg", "text": "Is it a sunny day with clear skies?", "ground_truth_answer": "No", "question_id": 277, "category": "rgb", "q_category": "rgb"}
+{"image": "25405.jpg", "text": "Is the sky bright and clear in the RGB image?", "ground_truth_answer": "No", "question_id": 279, "category": "rgb", "q_category": "rgb"}
+{"image": "01894.jpg", "text": "Is the wreath on the door made of artificial materials?", "ground_truth_answer": "No", "question_id": 281, "category": "rgb", "q_category": "rgb"}
+{"image": "32626.jpg", "text": "Are the trees showing bright autumn colors?", "ground_truth_answer": "No", "question_id": 283, "category": "rgb", "q_category": "rgb"}
+{"image": "20505.jpg", "text": "Is there a red double-decker bus visible on the street?", "ground_truth_answer": "Yes", "question_id": 285, "category": "rgb", "q_category": "rgb"}
+{"image": "26673.jpg", "text": "Is the car parked on the street blue in color?", "ground_truth_answer": "Yes", "question_id": 287, "category": "rgb", "q_category": "rgb"}
+{"image": "10420.jpg", "text": "Is the roof made of slate material?", "ground_truth_answer": "Yes", "question_id": 289, "category": "rgb", "q_category": "rgb"}
+{"image": "11012.jpg", "text": "Are the rental scooters bright red in color?", "ground_truth_answer": "Yes", "question_id": 291, "category": "rgb", "q_category": "rgb"}
+{"image": "10328.jpg", "text": "Is the door painted in a cream color?", "ground_truth_answer": "Yes", "question_id": 293, "category": "rgb", "q_category": "rgb"}
+{"image": "16620.jpg", "text": "Is the vegetation around the bridge brown and dried out?", "ground_truth_answer": "No", "question_id": 295, "category": "rgb", "q_category": "rgb"}
+{"image": "24733.jpg", "text": "Is the water surface rough and choppy in the RGB image?", "ground_truth_answer": "No", "question_id": 297, "category": "rgb", "q_category": "rgb"}
+{"image": "00493.jpg", "text": "Is the building's exterior painted in dark colors?", "ground_truth_answer": "No", "question_id": 299, "category": "rgb", "q_category": "rgb"}
+{"image": "18608.jpg", "text": "Is this scene captured during daytime?", "ground_truth_answer": "No", "question_id": 301, "category": "rgb", "q_category": "rgb"}
+{"image": "21169.jpg", "text": "Are there white cumulus clouds visible in the sky?", "ground_truth_answer": "Yes", "question_id": 303, "category": "rgb", "q_category": "rgb"}
+{"image": "39122.jpg", "text": "Is it a sunny summer day in the image?", "ground_truth_answer": "No", "question_id": 305, "category": "rgb", "q_category": "rgb"}
+{"image": "35470.jpg", "text": "Are British flags flying from the building?", "ground_truth_answer": "Yes", "question_id": 307, "category": "rgb", "q_category": "rgb"}
+{"image": "20889.jpg", "text": "Are the trees covered with leaves in the RGB image?", "ground_truth_answer": "No", "question_id": 309, "category": "rgb", "q_category": "rgb"}
+{"image": "08694.jpg", "text": "Is the van parked along the curb colored black?", "ground_truth_answer": "No", "question_id": 311, "category": "rgb", "q_category": "rgb"}
+{"image": "29717.jpg", "text": "Are the trees showing green foliage in the RGB image?", "ground_truth_answer": "No", "question_id": 313, "category": "rgb", "q_category": "rgb"}
+{"image": "37430.jpg", "text": "Are the windows dark and unlit in the RGB image?", "ground_truth_answer": "No", "question_id": 315, "category": "rgb", "q_category": "rgb"}
+{"image": "30230.jpg", "text": "Is the sky dark or overcast in the RGB image?", "ground_truth_answer": "No", "question_id": 317, "category": "rgb", "q_category": "rgb"}
+{"image": "26121.jpg", "text": "Is the road surface wet and reflective?", "ground_truth_answer": "Yes", "question_id": 319, "category": "rgb", "q_category": "rgb"}
+{"image": "11484.jpg", "text": "Is the building made of brick material?", "ground_truth_answer": "No", "question_id": 321, "category": "rgb", "q_category": "rgb"}
+{"image": "35706.jpg", "text": "Is there a traffic light visible at the street corner?", "ground_truth_answer": "Yes", "question_id": 323, "category": "rgb", "q_category": "rgb"}
+{"image": "26109.jpg", "text": "Is this scene captured during daytime?", "ground_truth_answer": "No", "question_id": 325, "category": "rgb", "q_category": "rgb"}
+{"image": "36046.jpg", "text": "Are there any modern traffic signals visible in front of the historic building?", "ground_truth_answer": "Yes", "question_id": 327, "category": "rgb", "q_category": "rgb"}
+{"image": "09079.jpg", "text": "Is the storefront painted in red color?", "ground_truth_answer": "No", "question_id": 329, "category": "rgb", "q_category": "rgb"}
+{"image": "34310.jpg", "text": "Is the water surface appearing blue and reflective?", "ground_truth_answer": "Yes", "question_id": 331, "category": "rgb", "q_category": "rgb"}
+{"image": "06214.jpg", "text": "Is the bus painted in a bright, light color?", "ground_truth_answer": "No", "question_id": 333, "category": "rgb", "q_category": "rgb"}
+{"image": "12656.jpg", "text": "Is it daytime in the image?", "ground_truth_answer": "No", "question_id": 335, "category": "rgb", "q_category": "rgb"}
+{"image": "21865.jpg", "text": "Does the ocean water have a sparkling appearance from sunlight?", "ground_truth_answer": "Yes", "question_id": 337, "category": "rgb", "q_category": "rgb"}
+{"image": "10976.jpg", "text": "Are the buildings made of dark-colored stone?", "ground_truth_answer": "Yes", "question_id": 339, "category": "rgb", "q_category": "rgb"}
+{"image": "15424.jpg", "text": "Is the building constructed of red brick?", "ground_truth_answer": "Yes", "question_id": 341, "category": "rgb", "q_category": "rgb"}
+{"image": "16900.jpg", "text": "Is the sky bright blue in color?", "ground_truth_answer": "Yes", "question_id": 343, "category": "rgb", "q_category": "rgb"}
+{"image": "18272.jpg", "text": "Are there decorative light installations that look like trees along the street?", "ground_truth_answer": "Yes", "question_id": 345, "category": "rgb", "q_category": "rgb"}
+{"image": "27101.jpg", "text": "Are the clouds in the RGB image dark gray in color?", "ground_truth_answer": "Yes", "question_id": 347, "category": "rgb", "q_category": "rgb"}
+{"image": "34066.jpg", "text": "Is the bridge made of red-colored stone?", "ground_truth_answer": "No", "question_id": 349, "category": "rgb", "q_category": "rgb"}
+{"image": "23197.jpg", "text": "Is there a protective railing visible along the coastal path in the RGB image?", "ground_truth_answer": "Yes", "question_id": 351, "category": "rgb", "q_category": "rgb"}
+{"image": "38422.jpg", "text": "Is the sky overcast with gray clouds in the RGB image?", "ground_truth_answer": "Yes", "question_id": 353, "category": "rgb", "q_category": "rgb"}
+{"image": "12368.jpg", "text": "Are all the windows dark without any interior lighting?", "ground_truth_answer": "No", "question_id": 355, "category": "rgb", "q_category": "rgb"}
+{"image": "20965.jpg", "text": "Are there traditional lamp posts visible in the scene?", "ground_truth_answer": "Yes", "question_id": 357, "category": "rgb", "q_category": "rgb"}
+{"image": "38218.jpg", "text": "Are there brick-colored buildings visible in the scene?", "ground_truth_answer": "Yes", "question_id": 359, "category": "rgb", "q_category": "rgb"}
+{"image": "13688.jpg", "text": "Are the trees covered with green leaves?", "ground_truth_answer": "No", "question_id": 361, "category": "rgb", "q_category": "rgb"}
+{"image": "02134.jpg", "text": "Are the architectural features appearing as dark silhouettes against the sky?", "ground_truth_answer": "Yes", "question_id": 363, "category": "rgb", "q_category": "rgb"}
+{"image": "03206.jpg", "text": "Are the trees illuminated with warm orange lighting?", "ground_truth_answer": "Yes", "question_id": 365, "category": "rgb", "q_category": "rgb"}
+{"image": "08346.jpg", "text": "Are the trees displaying autumn colors of green and yellow?", "ground_truth_answer": "Yes", "question_id": 367, "category": "rgb", "q_category": "rgb"}
+{"image": "29313.jpg", "text": "Are the architectural details of the building painted white?", "ground_truth_answer": "No", "question_id": 369, "category": "rgb", "q_category": "rgb"}
+{"image": "04622.jpg", "text": "Are the trees showing autumn colors of orange and brown?", "ground_truth_answer": "Yes", "question_id": 371, "category": "rgb", "q_category": "rgb"}
+{"image": "17316.jpg", "text": "Are the trees and vegetation along the path bright red in color?", "ground_truth_answer": "No", "question_id": 373, "category": "rgb", "q_category": "rgb"}
+{"image": "07274.jpg", "text": "Are there any spring flowers visible along the trail?", "ground_truth_answer": "No", "question_id": 375, "category": "rgb", "q_category": "rgb"}
+{"image": "03050.jpg", "text": "Is the tree illuminated by artificial lighting?", "ground_truth_answer": "Yes", "question_id": 377, "category": "rgb", "q_category": "rgb"}
+{"image": "30342.jpg", "text": "Is this a Gothic-style cathedral being renovated?", "ground_truth_answer": "Yes", "question_id": 379, "category": "rgb", "q_category": "rgb"}
+{"image": "35938.jpg", "text": "Is the building made of red brick?", "ground_truth_answer": "No", "question_id": 381, "category": "rgb", "q_category": "rgb"}
+{"image": "21909.jpg", "text": "Is the sky clear and bright blue in the RGB image?", "ground_truth_answer": "No", "question_id": 383, "category": "rgb", "q_category": "rgb"}
+{"image": "37842.jpg", "text": "Is the water appearing calm and blue in color?", "ground_truth_answer": "Yes", "question_id": 385, "category": "rgb", "q_category": "rgb"}
+{"image": "07106.jpg", "text": "Are all the trees still completely green without any color change?", "ground_truth_answer": "No", "question_id": 387, "category": "rgb", "q_category": "rgb"}
+{"image": "10200.jpg", "text": "Are the trees in the RGB image showing full summer foliage?", "ground_truth_answer": "No", "question_id": 389, "category": "rgb", "q_category": "rgb"}
+{"image": "15640.jpg", "text": "Are the window frames painted white?", "ground_truth_answer": "Yes", "question_id": 391, "category": "rgb", "q_category": "rgb"}
+{"image": "26669.jpg", "text": "Is it daytime in the RGB image?", "ground_truth_answer": "No", "question_id": 393, "category": "rgb", "q_category": "rgb"}
+{"image": "08766.jpg", "text": "Is the tree in the foreground a small sapling?", "ground_truth_answer": "No", "question_id": 395, "category": "rgb", "q_category": "rgb"}
+{"image": "39354.jpg", "text": "Does the architecture appear to be American-style housing?", "ground_truth_answer": "No", "question_id": 397, "category": "rgb", "q_category": "rgb"}
+{"image": "36026.jpg", "text": "Does the building feature modern architectural styling?", "ground_truth_answer": "No", "question_id": 399, "category": "rgb", "q_category": "rgb"}
+{"image": "16844.jpg", "text": "Is the flagpole painted in bright colors?", "ground_truth_answer": "No", "question_id": 401, "category": "rgb", "q_category": "rgb"}
+{"image": "38298.jpg", "text": "Are the fishing boats in the harbor painted blue and yellow?", "ground_truth_answer": "Yes", "question_id": 403, "category": "rgb", "q_category": "rgb"}
+{"image": "01590.jpg", "text": "Is the house constructed with red brick?", "ground_truth_answer": "Yes", "question_id": 405, "category": "rgb", "q_category": "rgb"}
+{"image": "17724.jpg", "text": "Are the building lights creating red reflections on the water?", "ground_truth_answer": "No", "question_id": 407, "category": "rgb", "q_category": "rgb"}
+{"image": "02802.jpg", "text": "Are the wheelie bins green in color?", "ground_truth_answer": "Yes", "question_id": 409, "category": "rgb", "q_category": "rgb"}
+{"image": "26505.jpg", "text": "Is the building's exterior painted in bright colors?", "ground_truth_answer": "No", "question_id": 411, "category": "rgb", "q_category": "rgb"}
+{"image": "36870.jpg", "text": "Is the sky bright blue in the RGB image?", "ground_truth_answer": "No", "question_id": 413, "category": "rgb", "q_category": "rgb"}
+{"image": "25093.jpg", "text": "Is the hotel's reflection visible in a water surface?", "ground_truth_answer": "No", "question_id": 415, "category": "rgb", "q_category": "rgb"}
+{"image": "20261.jpg", "text": "Is it bright daylight in the image?", "ground_truth_answer": "No", "question_id": 417, "category": "rgb", "q_category": "rgb"}
+{"image": "24821.jpg", "text": "Is there an illuminated sign visible in the lower right corner?", "ground_truth_answer": "Yes", "question_id": 419, "category": "rgb", "q_category": "rgb"}
+{"image": "00721.jpg", "text": "Is the sky a vibrant blue color in the RGB image?", "ground_truth_answer": "Yes", "question_id": 421, "category": "rgb", "q_category": "rgb"}
+{"image": "02702.jpg", "text": "Are there red autumn leaves on some of the trees?", "ground_truth_answer": "Yes", "question_id": 423, "category": "rgb", "q_category": "rgb"}
+{"image": "35110.jpg", "text": "Is the entire building constructed of the same material?", "ground_truth_answer": "No", "question_id": 425, "category": "rgb", "q_category": "rgb"}
+{"image": "03046.jpg", "text": "Is the building painted white in color?", "ground_truth_answer": "Yes", "question_id": 427, "category": "rgb", "q_category": "rgb"}
+{"image": "34190.jpg", "text": "Are the balcony railings made of wood?", "ground_truth_answer": "No", "question_id": 429, "category": "rgb", "q_category": "rgb"}
+{"image": "20757.jpg", "text": "Are the columns made of pale sandstone material?", "ground_truth_answer": "Yes", "question_id": 431, "category": "rgb", "q_category": "rgb"}
+{"image": "17760.jpg", "text": "Is the water surface appearing bright and clear in the RGB image?", "ground_truth_answer": "No", "question_id": 433, "category": "rgb", "q_category": "rgb"}
+{"image": "15892.jpg", "text": "Are there yellow bollards present along the roadside?", "ground_truth_answer": "Yes", "question_id": 435, "category": "rgb", "q_category": "rgb"}
+{"image": "25669.jpg", "text": "Are there red brick apartment buildings visible in the background?", "ground_truth_answer": "Yes", "question_id": 437, "category": "rgb", "q_category": "rgb"}
+{"image": "38638.jpg", "text": "Is the water appearing in blue tones?", "ground_truth_answer": "Yes", "question_id": 439, "category": "rgb", "q_category": "rgb"}
+{"image": "28689.jpg", "text": "Is the building's exterior made of red brick?", "ground_truth_answer": "Yes", "question_id": 441, "category": "rgb", "q_category": "rgb"}
+{"image": "36386.jpg", "text": "Is it a sunny day without any clouds in the sky?", "ground_truth_answer": "No", "question_id": 443, "category": "rgb", "q_category": "rgb"}
+{"image": "36474.jpg", "text": "Is the second bus painted in turquoise blue?", "ground_truth_answer": "Yes", "question_id": 445, "category": "rgb", "q_category": "rgb"}
+{"image": "02198.jpg", "text": "Is the sky displaying pink and orange sunset colors in the RGB image?", "ground_truth_answer": "Yes", "question_id": 447, "category": "rgb", "q_category": "rgb"}
+{"image": "41571.jpg", "text": "Is the grass in the landscape colored green?", "ground_truth_answer": "Yes", "question_id": 449, "category": "rgb", "q_category": "rgb"}
+{"image": "37178.jpg", "text": "Are there illuminated shop fronts visible at the street level?", "ground_truth_answer": "Yes", "question_id": 451, "category": "rgb", "q_category": "rgb"}
+{"image": "24941.jpg", "text": "Is there a purple-tinted light visible in one of the windows?", "ground_truth_answer": "Yes", "question_id": 453, "category": "rgb", "q_category": "rgb"}
+{"image": "19512.jpg", "text": "Is the stone used in the buildings a sandstone color?", "ground_truth_answer": "Yes", "question_id": 455, "category": "rgb", "q_category": "rgb"}
+{"image": "37774.jpg", "text": "Is the building's exterior predominantly made of glass windows?", "ground_truth_answer": "Yes", "question_id": 457, "category": "rgb", "q_category": "rgb"}
+{"image": "13368.jpg", "text": "Is the lake water surface appearing blue in color?", "ground_truth_answer": "No", "question_id": 459, "category": "rgb", "q_category": "rgb"}
+{"image": "04570.jpg", "text": "Is the service vehicle parked near the entrance painted white?", "ground_truth_answer": "Yes", "question_id": 461, "category": "rgb", "q_category": "rgb"}
+{"image": "14056.jpg", "text": "Is the Newcastle University signage visible on the building?", "ground_truth_answer": "Yes", "question_id": 463, "category": "rgb", "q_category": "rgb"}
+{"image": "20601.jpg", "text": "Are the buildings constructed with light-colored stone?", "ground_truth_answer": "No", "question_id": 465, "category": "rgb", "q_category": "rgb"}
+{"image": "32066.jpg", "text": "Is the sky behind the building dark gray in the RGB image?", "ground_truth_answer": "No", "question_id": 467, "category": "rgb", "q_category": "rgb"}
+{"image": "12736.jpg", "text": "Is the building painted in white or light colors?", "ground_truth_answer": "No", "question_id": 469, "category": "rgb", "q_category": "rgb"}
+{"image": "00717.jpg", "text": "Are the fallen leaves on the ground yellow in color?", "ground_truth_answer": "Yes", "question_id": 471, "category": "rgb", "q_category": "rgb"}
+{"image": "27465.jpg", "text": "Is the sky bright blue in the RGB image?", "ground_truth_answer": "No", "question_id": 473, "category": "rgb", "q_category": "rgb"}
+{"image": "01666.jpg", "text": "Are the autumn leaves in the background yellow and orange in color?", "ground_truth_answer": "Yes", "question_id": 475, "category": "rgb", "q_category": "rgb"}
+{"image": "04994.jpg", "text": "Is the window frame painted black?", "ground_truth_answer": "No", "question_id": 477, "category": "rgb", "q_category": "rgb"}
+{"image": "16332.jpg", "text": "Is the grass along the shoreline thick and lush green?", "ground_truth_answer": "No", "question_id": 479, "category": "rgb", "q_category": "rgb"}
+{"image": "40307.jpg", "text": "Are the houses constructed with brick material?", "ground_truth_answer": "Yes", "question_id": 481, "category": "rgb", "q_category": "rgb"}
+{"image": "30414.jpg", "text": "Is the building made of red brick?", "ground_truth_answer": "No", "question_id": 483, "category": "rgb", "q_category": "rgb"}
+{"image": "36346.jpg", "text": "Is the modern building's facade made of glass?", "ground_truth_answer": "Yes", "question_id": 485, "category": "rgb", "q_category": "rgb"}
+{"image": "31834.jpg", "text": "Does the scene appear to be lit by natural daylight?", "ground_truth_answer": "No", "question_id": 487, "category": "rgb", "q_category": "rgb"}
+{"image": "08634.jpg", "text": "Are the houses painted in a dark color?", "ground_truth_answer": "No", "question_id": 489, "category": "rgb", "q_category": "rgb"}
+{"image": "03718.jpg", "text": "Is the parking lot surface paved with black asphalt?", "ground_truth_answer": "No", "question_id": 491, "category": "rgb", "q_category": "rgb"}
+{"image": "11008.jpg", "text": "Are there colorful flowers or garden visible in the scene?", "ground_truth_answer": "No", "question_id": 493, "category": "rgb", "q_category": "rgb"}
+{"image": "11808.jpg", "text": "Are the apartment buildings colored in red and charcoal tones?", "ground_truth_answer": "Yes", "question_id": 495, "category": "rgb", "q_category": "rgb"}
+{"image": "32770.jpg", "text": "Is one of the buildings painted white?", "ground_truth_answer": "Yes", "question_id": 497, "category": "rgb", "q_category": "rgb"}
+{"image": "32478.jpg", "text": "Are the buildings made of red brick?", "ground_truth_answer": "No", "question_id": 499, "category": "rgb", "q_category": "rgb"}
+{"image": "37854.jpg", "text": "Are there dark storm clouds in the background?", "ground_truth_answer": "No", "question_id": 501, "category": "rgb", "q_category": "rgb"}
+{"image": "24797.jpg", "text": "Does the street appear to have a blue-tinted lighting?", "ground_truth_answer": "No", "question_id": 503, "category": "rgb", "q_category": "rgb"}
+{"image": "28509.jpg", "text": "Is the building's facade made of brown brick?", "ground_truth_answer": "Yes", "question_id": 505, "category": "rgb", "q_category": "rgb"}
+{"image": "18112.jpg", "text": "Is the scene captured during daytime?", "ground_truth_answer": "No", "question_id": 507, "category": "rgb", "q_category": "rgb"}
+{"image": "16112.jpg", "text": "Is there a dark-colored van among the parked vehicles?", "ground_truth_answer": "Yes", "question_id": 509, "category": "rgb", "q_category": "rgb"}
+{"image": "21189.jpg", "text": "Are there any green colors in the mural design?", "ground_truth_answer": "No", "question_id": 511, "category": "rgb", "q_category": "rgb"}
+{"image": "38062.jpg", "text": "Are the boats in the water painted in bright colors?", "ground_truth_answer": "No", "question_id": 513, "category": "rgb", "q_category": "rgb"}
+{"image": "33094.jpg", "text": "Is the building constructed of red brick?", "ground_truth_answer": "No", "question_id": 515, "category": "rgb", "q_category": "rgb"}
+{"image": "15104.jpg", "text": "Is the building's exterior siding colored tan or beige?", "ground_truth_answer": "Yes", "question_id": 517, "category": "rgb", "q_category": "rgb"}
+{"image": "26357.jpg", "text": "Is the building made of brick?", "ground_truth_answer": "Yes", "question_id": 519, "category": "rgb", "q_category": "rgb"}
+{"image": "09595.jpg", "text": "Is the stonework of the tower dark gray or black in color?", "ground_truth_answer": "Yes", "question_id": 521, "category": "rgb", "q_category": "rgb"}
+{"image": "04834.jpg", "text": "Is the building's exterior painted entirely white?", "ground_truth_answer": "No", "question_id": 523, "category": "rgb", "q_category": "rgb"}
+{"image": "23701.jpg", "text": "Are there promotional posters visible in the window display?", "ground_truth_answer": "Yes", "question_id": 525, "category": "rgb", "q_category": "rgb"}
+{"image": "34750.jpg", "text": "Are the roof tiles blue in color?", "ground_truth_answer": "No", "question_id": 527, "category": "rgb", "q_category": "rgb"}
+{"image": "38618.jpg", "text": "Does the water appear to be a grey-blue color?", "ground_truth_answer": "Yes", "question_id": 529, "category": "rgb", "q_category": "rgb"}
+{"image": "40575.jpg", "text": "Is the sky overcast and gray?", "ground_truth_answer": "No", "question_id": 531, "category": "rgb", "q_category": "rgb"}
+{"image": "24829.jpg", "text": "Is the Hilton logo illuminated in blue and white colors?", "ground_truth_answer": "Yes", "question_id": 533, "category": "rgb", "q_category": "rgb"}
+{"image": "21069.jpg", "text": "Are the street lamps illuminated?", "ground_truth_answer": "No", "question_id": 535, "category": "rgb", "q_category": "rgb"}
+{"image": "01906.jpg", "text": "Is the church exterior made of pink-colored sandstone?", "ground_truth_answer": "Yes", "question_id": 537, "category": "rgb", "q_category": "rgb"}
+{"image": "38338.jpg", "text": "Are there any blue boats visible along the shoreline?", "ground_truth_answer": "Yes", "question_id": 539, "category": "rgb", "q_category": "rgb"}
+{"image": "33406.jpg", "text": "Is the grass courtyard brown and unmaintained?", "ground_truth_answer": "No", "question_id": 541, "category": "rgb", "q_category": "rgb"}
+{"image": "04934.jpg", "text": "Is there a sunset glow visible in the background?", "ground_truth_answer": "Yes", "question_id": 543, "category": "rgb", "q_category": "rgb"}
+{"image": "17540.jpg", "text": "Is this a modern glass and steel architectural style in the RGB image?", "ground_truth_answer": "No", "question_id": 545, "category": "rgb", "q_category": "rgb"}
+{"image": "30538.jpg", "text": "Is the building facade predominantly brick and white in color?", "ground_truth_answer": "Yes", "question_id": 547, "category": "rgb", "q_category": "rgb"}
+{"image": "14256.jpg", "text": "Is the architectural element at the top green in color?", "ground_truth_answer": "Yes", "question_id": 549, "category": "rgb", "q_category": "rgb"}
+{"image": "28369.jpg", "text": "Is the building painted in cool blue tones?", "ground_truth_answer": "No", "question_id": 551, "category": "rgb", "q_category": "rgb"}
+{"image": "12008.jpg", "text": "Are the bollards along the walkway black in color?", "ground_truth_answer": "Yes", "question_id": 553, "category": "rgb", "q_category": "rgb"}
+{"image": "16556.jpg", "text": "Are there green climbing plants or ivy visible on one side of the scene?", "ground_truth_answer": "Yes", "question_id": 555, "category": "rgb", "q_category": "rgb"}
+{"image": "40979.jpg", "text": "Is the grass verge between the road and parking area brown?", "ground_truth_answer": "No", "question_id": 557, "category": "rgb", "q_category": "rgb"}
+{"image": "40095.jpg", "text": "Does the architecture feature modern design elements?", "ground_truth_answer": "Yes", "question_id": 559, "category": "rgb", "q_category": "rgb"}
+{"image": "09119.jpg", "text": "Are the window frames painted white?", "ground_truth_answer": "Yes", "question_id": 561, "category": "rgb", "q_category": "rgb"}
+{"image": "05478.jpg", "text": "Are there decorative elements visible through the glass walls?", "ground_truth_answer": "Yes", "question_id": 563, "category": "rgb", "q_category": "rgb"}
+{"image": "32754.jpg", "text": "Are the railings of the bridge colorful?", "ground_truth_answer": "Yes", "question_id": 565, "category": "rgb", "q_category": "rgb"}
+{"image": "40051.jpg", "text": "Is the sky bright and clear in the RGB image?", "ground_truth_answer": "No", "question_id": 567, "category": "rgb", "q_category": "rgb"}
+{"image": "20729.jpg", "text": "Are there strong shadows visible due to sunlight in the RGB image?", "ground_truth_answer": "Yes", "question_id": 569, "category": "rgb", "q_category": "rgb"}
+{"image": "40579.jpg", "text": "Is the car parked at the side of the house black in color?", "ground_truth_answer": "No", "question_id": 571, "category": "rgb", "q_category": "rgb"}
+{"image": "02506.jpg", "text": "Is the van parked in the driveway black in color?", "ground_truth_answer": "No", "question_id": 573, "category": "rgb", "q_category": "rgb"}
+{"image": "09715.jpg", "text": "Are the buildings in the scene all modern structures?", "ground_truth_answer": "No", "question_id": 575, "category": "rgb", "q_category": "rgb"}
+{"image": "01722.jpg", "text": "Are the houses built with brick facades?", "ground_truth_answer": "Yes", "question_id": 577, "category": "rgb", "q_category": "rgb"}
+{"image": "17504.jpg", "text": "Are there retail shopfronts at the street level?", "ground_truth_answer": "Yes", "question_id": 579, "category": "rgb", "q_category": "rgb"}
+{"image": "34266.jpg", "text": "Are the surrounding walls made of concrete?", "ground_truth_answer": "No", "question_id": 581, "category": "rgb", "q_category": "rgb"}
+{"image": "28089.jpg", "text": "Is the building facade colored in grey metallic tones?", "ground_truth_answer": "Yes", "question_id": 583, "category": "rgb", "q_category": "rgb"}
+{"image": "00273.jpg", "text": "Is the sky blue in the RGB image?", "ground_truth_answer": "Yes", "question_id": 585, "category": "rgb", "q_category": "rgb"}
+{"image": "26529.jpg", "text": "Are the interior lights of the building giving off a warm white glow?", "ground_truth_answer": "Yes", "question_id": 587, "category": "rgb", "q_category": "rgb"}
+{"image": "22825.jpg", "text": "Are the awnings on the storefront black in color?", "ground_truth_answer": "No", "question_id": 589, "category": "rgb", "q_category": "rgb"}
+{"image": "00613.jpg", "text": "Are the parking space lines painted in blue?", "ground_truth_answer": "No", "question_id": 591, "category": "rgb", "q_category": "rgb"}
+{"image": "19996.jpg", "text": "Are the tail lights of the cars glowing red in the image?", "ground_truth_answer": "Yes", "question_id": 593, "category": "rgb", "q_category": "rgb"}
+{"image": "17564.jpg", "text": "Is the bridge structure painted red in the RGB image?", "ground_truth_answer": "Yes", "question_id": 595, "category": "rgb", "q_category": "rgb"}
+{"image": "10968.jpg", "text": "Are there string lights illuminated between the buildings?", "ground_truth_answer": "Yes", "question_id": 597, "category": "rgb", "q_category": "rgb"}
+{"image": "22549.jpg", "text": "Is the beach covered entirely with light-colored sand?", "ground_truth_answer": "No", "question_id": 599, "category": "rgb", "q_category": "rgb"}
+{"image": "18880.jpg", "text": "Is the building painted in bright modern colors?", "ground_truth_answer": "No", "question_id": 601, "category": "rgb", "q_category": "rgb"}
+{"image": "07314.jpg", "text": "Are there fallen leaves scattered on the ground?", "ground_truth_answer": "Yes", "question_id": 603, "category": "rgb", "q_category": "rgb"}
+{"image": "26541.jpg", "text": "Does the building emit a warm glow from its lighting?", "ground_truth_answer": "Yes", "question_id": 605, "category": "rgb", "q_category": "rgb"}
+{"image": "18292.jpg", "text": "Is this a daytime photograph?", "ground_truth_answer": "No", "question_id": 607, "category": "rgb", "q_category": "rgb"}
+{"image": "34110.jpg", "text": "Is the bridge made of stone blocks?", "ground_truth_answer": "Yes", "question_id": 609, "category": "rgb", "q_category": "rgb"}
+{"image": "10808.jpg", "text": "Is this image captured during bright daylight hours?", "ground_truth_answer": "No", "question_id": 611, "category": "rgb", "q_category": "rgb"}
+{"image": "13908.jpg", "text": "Is the building constructed with red brick?", "ground_truth_answer": "Yes", "question_id": 613, "category": "rgb", "q_category": "rgb"}
+{"image": "24197.jpg", "text": "Is there illuminated modern signage on the building?", "ground_truth_answer": "Yes", "question_id": 615, "category": "rgb", "q_category": "rgb"}
+{"image": "23745.jpg", "text": "Is the building's facade dark and unlit?", "ground_truth_answer": "No", "question_id": 617, "category": "rgb", "q_category": "rgb"}
+{"image": "13300.jpg", "text": "Is it a sunny day in the image?", "ground_truth_answer": "No", "question_id": 619, "category": "rgb", "q_category": "rgb"}
+{"image": "37170.jpg", "text": "Are there red traffic lights visible in the scene?", "ground_truth_answer": "Yes", "question_id": 621, "category": "rgb", "q_category": "rgb"}
+{"image": "26365.jpg", "text": "Is the university logo clearly visible and illuminated on the building?", "ground_truth_answer": "Yes", "question_id": 623, "category": "rgb", "q_category": "rgb"}
+{"image": "14200.jpg", "text": "Is the building's facade white in color?", "ground_truth_answer": "Yes", "question_id": 625, "category": "rgb", "q_category": "rgb"}
+{"image": "41695.jpg", "text": "Is the water color blue in the RGB image?", "ground_truth_answer": "No", "question_id": 627, "category": "rgb", "q_category": "rgb"}
+{"image": "10940.jpg", "text": "Is the building number shown 39?", "ground_truth_answer": "No", "question_id": 629, "category": "rgb", "q_category": "rgb"}
+{"image": "30774.jpg", "text": "Is there a well-maintained grass area in front of the building?", "ground_truth_answer": "Yes", "question_id": 631, "category": "rgb", "q_category": "rgb"}
+{"image": "02370.jpg", "text": "Is this scene captured during daytime?", "ground_truth_answer": "No", "question_id": 633, "category": "rgb", "q_category": "rgb"}
+{"image": "15676.jpg", "text": "Is the vehicle specifically a Volvo SUV?", "ground_truth_answer": "Yes", "question_id": 635, "category": "rgb", "q_category": "rgb"}
+{"image": "14096.jpg", "text": "Is the building's facade made of metal mesh material?", "ground_truth_answer": "Yes", "question_id": 637, "category": "rgb", "q_category": "rgb"}
+{"image": "31738.jpg", "text": "Is there a Costa Coffee shop visible in the RGB image?", "ground_truth_answer": "Yes", "question_id": 639, "category": "rgb", "q_category": "rgb"}
+{"image": "40179.jpg", "text": "Are the houses constructed with red brick material?", "ground_truth_answer": "Yes", "question_id": 641, "category": "rgb", "q_category": "rgb"}
+{"image": "24545.jpg", "text": "Is the scene captured during daytime?", "ground_truth_answer": "No", "question_id": 643, "category": "rgb", "q_category": "rgb"}
+{"image": "16480.jpg", "text": "Is the stone wall covered with green moss or ivy in places?", "ground_truth_answer": "Yes", "question_id": 645, "category": "rgb", "q_category": "rgb"}
+{"image": "33894.jpg", "text": "Are there only evergreen trees on the hillside?", "ground_truth_answer": "No", "question_id": 647, "category": "rgb", "q_category": "rgb"}
+{"image": "39910.jpg", "text": "Is it a sunny, clear day in the RGB image?", "ground_truth_answer": "No", "question_id": 649, "category": "rgb", "q_category": "rgb"}
+{"image": "33430.jpg", "text": "Is the stone used in construction sandstone or limestone colored?", "ground_truth_answer": "Yes", "question_id": 651, "category": "rgb", "q_category": "rgb"}
+{"image": "09227.jpg", "text": "Is the castle built with light-colored stone?", "ground_truth_answer": "No", "question_id": 653, "category": "rgb", "q_category": "rgb"}
+{"image": "17808.jpg", "text": "Are the storefronts dark and unlit?", "ground_truth_answer": "No", "question_id": 655, "category": "rgb", "q_category": "rgb"}
+{"image": "13396.jpg", "text": "Are all the trees along the shoreline evergreens?", "ground_truth_answer": "No", "question_id": 657, "category": "rgb", "q_category": "rgb"}
+{"image": "20577.jpg", "text": "Is the sky in the image cloudy?", "ground_truth_answer": "No", "question_id": 659, "category": "rgb", "q_category": "rgb"}
+{"image": "33218.jpg", "text": "Is the cathedral photographed during sunset with golden lighting?", "ground_truth_answer": "No", "question_id": 661, "category": "rgb", "q_category": "rgb"}
+{"image": "13756.jpg", "text": "Is the building painted in cream or off-white color?", "ground_truth_answer": "Yes", "question_id": 663, "category": "rgb", "q_category": "rgb"}
+{"image": "27457.jpg", "text": "Is the sky completely clear and blue?", "ground_truth_answer": "No", "question_id": 665, "category": "rgb", "q_category": "rgb"}
+{"image": "21345.jpg", "text": "Is there sandy terrain visible in the foreground?", "ground_truth_answer": "Yes", "question_id": 667, "category": "rgb", "q_category": "rgb"}
+{"image": "34958.jpg", "text": "Are there green trees or vegetation visible in the foreground?", "ground_truth_answer": "No", "question_id": 669, "category": "rgb", "q_category": "rgb"}
+{"image": "05506.jpg", "text": "Is the night sky red in color?", "ground_truth_answer": "No", "question_id": 671, "category": "rgb", "q_category": "rgb"}
+{"image": "32870.jpg", "text": "Is the ground covered with brown fallen leaves?", "ground_truth_answer": "No", "question_id": 673, "category": "rgb", "q_category": "rgb"}
+{"image": "14068.jpg", "text": "Are the windows tinted in a green shade?", "ground_truth_answer": "No", "question_id": 675, "category": "rgb", "q_category": "rgb"}
+{"image": "19000.jpg", "text": "Are there ornate stone columns visible on the upper level?", "ground_truth_answer": "Yes", "question_id": 677, "category": "rgb", "q_category": "rgb"}
+{"image": "36522.jpg", "text": "Is the building constructed with red brick?", "ground_truth_answer": "Yes", "question_id": 679, "category": "rgb", "q_category": "rgb"}
+{"image": "15556.jpg", "text": "Is it a cloudy, overcast day?", "ground_truth_answer": "No", "question_id": 681, "category": "rgb", "q_category": "rgb"}
+{"image": "11292.jpg", "text": "Is the architectural style purely modern?", "ground_truth_answer": "No", "question_id": 683, "category": "rgb", "q_category": "rgb"}
+{"image": "26049.jpg", "text": "Are the street lights turned off?", "ground_truth_answer": "No", "question_id": 685, "category": "rgb", "q_category": "rgb"}
+{"image": "17840.jpg", "text": "Is 'TASTE OVERLOAD' written on the side of the truck?", "ground_truth_answer": "Yes", "question_id": 687, "category": "rgb", "q_category": "rgb"}
+{"image": "16324.jpg", "text": "Is the foliage surrounding the scene yellow in color?", "ground_truth_answer": "No", "question_id": 689, "category": "rgb", "q_category": "rgb"}
+{"image": "04146.jpg", "text": "Are the trees showing autumn colors with partially bare branches?", "ground_truth_answer": "Yes", "question_id": 691, "category": "rgb", "q_category": "rgb"}
+{"image": "06986.jpg", "text": "Are all the cars the same color?", "ground_truth_answer": "No", "question_id": 693, "category": "rgb", "q_category": "rgb"}
+{"image": "40815.jpg", "text": "Is the house constructed with red brick?", "ground_truth_answer": "Yes", "question_id": 695, "category": "rgb", "q_category": "rgb"}
+{"image": "37870.jpg", "text": "Is it a sunny day in the RGB image?", "ground_truth_answer": "No", "question_id": 697, "category": "rgb", "q_category": "rgb"}
+{"image": "35326.jpg", "text": "Is this a modern glass and steel building?", "ground_truth_answer": "No", "question_id": 699, "category": "rgb", "q_category": "rgb"}
+{"image": "12424.jpg", "text": "Are some of the windows emitting a warm yellow glow?", "ground_truth_answer": "Yes", "question_id": 701, "category": "rgb", "q_category": "rgb"}
+{"image": "32038.jpg", "text": "Are there white clouds visible in the sky?", "ground_truth_answer": "Yes", "question_id": 703, "category": "rgb", "q_category": "rgb"}
+{"image": "15812.jpg", "text": "Is there blue accent coloring visible on the building's facade?", "ground_truth_answer": "Yes", "question_id": 705, "category": "rgb", "q_category": "rgb"}
+{"image": "17396.jpg", "text": "Are most of the trees full of leaves in the RGB image?", "ground_truth_answer": "No", "question_id": 707, "category": "rgb", "q_category": "rgb"}
+{"image": "32862.jpg", "text": "Does the water appear to have a blue color in the RGB image?", "ground_truth_answer": "No", "question_id": 709, "category": "rgb", "q_category": "rgb"}
+{"image": "08786.jpg", "text": "Is this a daytime photograph?", "ground_truth_answer": "No", "question_id": 711, "category": "rgb", "q_category": "rgb"}
+{"image": "30946.jpg", "text": "Are there stained glass windows visible in the RGB image?", "ground_truth_answer": "Yes", "question_id": 713, "category": "rgb", "q_category": "rgb"}
+{"image": "39426.jpg", "text": "Is the sky clear and blue in the RGB image?", "ground_truth_answer": "No", "question_id": 715, "category": "rgb", "q_category": "rgb"}
+{"image": "13656.jpg", "text": "Is the grass area between the paved section and wall brown in color?", "ground_truth_answer": "No", "question_id": 717, "category": "rgb", "q_category": "rgb"}
+{"image": "00333.jpg", "text": "Is the building's exterior primarily made of blue-tinted glass?", "ground_truth_answer": "No", "question_id": 719, "category": "rgb", "q_category": "rgb"}
+{"image": "17932.jpg", "text": "Are there green lights illuminating the bridge in the RGB image?", "ground_truth_answer": "No", "question_id": 721, "category": "rgb", "q_category": "rgb"}
+{"image": "13508.jpg", "text": "Are there waterfowl visible on the lake in the RGB image?", "ground_truth_answer": "Yes", "question_id": 723, "category": "rgb", "q_category": "rgb"}
+{"image": "12644.jpg", "text": "Is the Chinese Express restaurant's signage turned off?", "ground_truth_answer": "No", "question_id": 725, "category": "rgb", "q_category": "rgb"}
+{"image": "31786.jpg", "text": "Are the trees along the riverbank showing autumn colors?", "ground_truth_answer": "No", "question_id": 727, "category": "rgb", "q_category": "rgb"}
+{"image": "30634.jpg", "text": "Are the porches painted blue?", "ground_truth_answer": "No", "question_id": 729, "category": "rgb", "q_category": "rgb"}
+{"image": "16624.jpg", "text": "Is the water creating white ripples as it flows?", "ground_truth_answer": "Yes", "question_id": 731, "category": "rgb", "q_category": "rgb"}
+{"image": "31330.jpg", "text": "Is the prominent building in the background made of red brick?", "ground_truth_answer": "Yes", "question_id": 733, "category": "rgb", "q_category": "rgb"}
+{"image": "05282.jpg", "text": "Is the grass in the field bright green in color?", "ground_truth_answer": "No", "question_id": 735, "category": "rgb", "q_category": "rgb"}
+{"image": "25217.jpg", "text": "Is the sky bright blue and clear?", "ground_truth_answer": "No", "question_id": 737, "category": "rgb", "q_category": "rgb"}
+{"image": "08754.jpg", "text": "Are the trees still full of green leaves?", "ground_truth_answer": "No", "question_id": 739, "category": "rgb", "q_category": "rgb"}
+{"image": "05018.jpg", "text": "Is the grass field appearing green in color?", "ground_truth_answer": "Yes", "question_id": 741, "category": "rgb", "q_category": "rgb"}
+{"image": "11172.jpg", "text": "Is the sky visible in the image deep blue in color?", "ground_truth_answer": "Yes", "question_id": 743, "category": "rgb", "q_category": "rgb"}
+{"image": "36398.jpg", "text": "Is the sky completely clear without any clouds?", "ground_truth_answer": "No", "question_id": 745, "category": "rgb", "q_category": "rgb"}
+{"image": "35566.jpg", "text": "Are there Gothic Revival style features on the right building?", "ground_truth_answer": "Yes", "question_id": 747, "category": "rgb", "q_category": "rgb"}
+{"image": "04278.jpg", "text": "Is the landscaping area dominated by evergreen plants?", "ground_truth_answer": "No", "question_id": 749, "category": "rgb", "q_category": "rgb"}
+{"image": "41543.jpg", "text": "Is it a cloudy, overcast day?", "ground_truth_answer": "No", "question_id": 751, "category": "rgb", "q_category": "rgb"}
+{"image": "33466.jpg", "text": "Is the stone facade painted in bright colors?", "ground_truth_answer": "No", "question_id": 753, "category": "rgb", "q_category": "rgb"}
+{"image": "06826.jpg", "text": "Is the sky bright blue in color?", "ground_truth_answer": "No", "question_id": 755, "category": "rgb", "q_category": "rgb"}
+{"image": "26969.jpg", "text": "Is the grass in the park green and well-maintained?", "ground_truth_answer": "Yes", "question_id": 757, "category": "rgb", "q_category": "rgb"}
+{"image": "29881.jpg", "text": "Are the ground floor windows square-shaped?", "ground_truth_answer": "No", "question_id": 759, "category": "rgb", "q_category": "rgb"}
+{"image": "12956.jpg", "text": "Is there a mirror-like reflection on the water's surface?", "ground_truth_answer": "Yes", "question_id": 761, "category": "rgb", "q_category": "rgb"}
+{"image": "08458.jpg", "text": "Are there any evergreen trees with green foliage among the deciduous trees?", "ground_truth_answer": "Yes", "question_id": 763, "category": "rgb", "q_category": "rgb"}
+{"image": "28105.jpg", "text": "Are the support columns at the entrance black in color?", "ground_truth_answer": "No", "question_id": 765, "category": "rgb", "q_category": "rgb"}
+{"image": "32642.jpg", "text": "Are there some evergreen trees mixed among the deciduous trees?", "ground_truth_answer": "Yes", "question_id": 767, "category": "rgb", "q_category": "rgb"}
+{"image": "12016.jpg", "text": "Is the staircase made of dark-colored concrete?", "ground_truth_answer": "No", "question_id": 769, "category": "rgb", "q_category": "rgb"}
+{"image": "32102.jpg", "text": "Is the building constructed with gray stone material?", "ground_truth_answer": "Yes", "question_id": 771, "category": "rgb", "q_category": "rgb"}
+{"image": "36146.jpg", "text": "Is the building's stonework light grey in color?", "ground_truth_answer": "Yes", "question_id": 773, "category": "rgb", "q_category": "rgb"}
+{"image": "22725.jpg", "text": "Are the trees in the scene full of leaves?", "ground_truth_answer": "No", "question_id": 775, "category": "rgb", "q_category": "rgb"}
+{"image": "18264.jpg", "text": "Is this a daytime photograph?", "ground_truth_answer": "No", "question_id": 777, "category": "rgb", "q_category": "rgb"}
+{"image": "20993.jpg", "text": "Is the sky dark blue in color?", "ground_truth_answer": "No", "question_id": 779, "category": "rgb", "q_category": "rgb"}
+{"image": "37726.jpg", "text": "Are the apartment buildings constructed with brick?", "ground_truth_answer": "Yes", "question_id": 781, "category": "rgb", "q_category": "rgb"}
+{"image": "05654.jpg", "text": "Is the sidewalk made of red brick in the RGB image?", "ground_truth_answer": "No", "question_id": 783, "category": "rgb", "q_category": "rgb"}
+{"image": "29777.jpg", "text": "Does the water surface appear reflective with a mirror-like quality?", "ground_truth_answer": "Yes", "question_id": 785, "category": "rgb", "q_category": "rgb"}
+{"image": "09187.jpg", "text": "Are there green leaves visible on the tree branches in the image?", "ground_truth_answer": "No", "question_id": 787, "category": "rgb", "q_category": "rgb"}
+{"image": "03146.jpg", "text": "Are there bicycle symbols painted on the path?", "ground_truth_answer": "Yes", "question_id": 789, "category": "rgb", "q_category": "rgb"}
+{"image": "32146.jpg", "text": "Is the sky in the RGB image bright blue?", "ground_truth_answer": "Yes", "question_id": 791, "category": "rgb", "q_category": "rgb"}
+{"image": "24277.jpg", "text": "Does the pavement appear dry in the image?", "ground_truth_answer": "No", "question_id": 793, "category": "rgb", "q_category": "rgb"}
+{"image": "10684.jpg", "text": "Are the window frames black in color?", "ground_truth_answer": "No", "question_id": 795, "category": "rgb", "q_category": "rgb"}
+{"image": "16472.jpg", "text": "Is the water clear and transparent?", "ground_truth_answer": "No", "question_id": 797, "category": "rgb", "q_category": "rgb"}
+{"image": "21173.jpg", "text": "Is the sky blue with white clouds?", "ground_truth_answer": "Yes", "question_id": 799, "category": "rgb", "q_category": "rgb"}
+{"image": "14392.jpg", "text": "Is there a Union Jack flag visible on the building?", "ground_truth_answer": "Yes", "question_id": 801, "category": "rgb", "q_category": "rgb"}
+{"image": "09403.jpg", "text": "Is the stone of the building dark in color?", "ground_truth_answer": "Yes", "question_id": 803, "category": "rgb", "q_category": "rgb"}
+{"image": "01594.jpg", "text": "Is the sky a bright blue color?", "ground_truth_answer": "Yes", "question_id": 805, "category": "rgb", "q_category": "rgb"}
+{"image": "23889.jpg", "text": "Is the word 'FRIDAY' fully visible in the bright display?", "ground_truth_answer": "Yes", "question_id": 807, "category": "rgb", "q_category": "rgb"}
+{"image": "33178.jpg", "text": "Is it a sunny day in the image?", "ground_truth_answer": "No", "question_id": 809, "category": "rgb", "q_category": "rgb"}
+{"image": "27361.jpg", "text": "Is there a treeline visible at the horizon in the RGB image?", "ground_truth_answer": "Yes", "question_id": 811, "category": "rgb", "q_category": "rgb"}
+{"image": "08630.jpg", "text": "Is the building's stone exterior painted in bright colors?", "ground_truth_answer": "No", "question_id": 813, "category": "rgb", "q_category": "rgb"}
+{"image": "31650.jpg", "text": "Are there decorative string lights hanging between buildings?", "ground_truth_answer": "Yes", "question_id": 815, "category": "rgb", "q_category": "rgb"}
+{"image": "37702.jpg", "text": "Is the water surface blue and rippling?", "ground_truth_answer": "Yes", "question_id": 817, "category": "rgb", "q_category": "rgb"}
+{"image": "23869.jpg", "text": "Is there a Zenith brand display visible in one of the windows?", "ground_truth_answer": "Yes", "question_id": 819, "category": "rgb", "q_category": "rgb"}
+{"image": "34894.jpg", "text": "Is the stone of the bridge appearing fresh and newly cut?", "ground_truth_answer": "No", "question_id": 821, "category": "rgb", "q_category": "rgb"}
+{"image": "37126.jpg", "text": "Are there Gothic Revival architectural details visible?", "ground_truth_answer": "Yes", "question_id": 823, "category": "rgb", "q_category": "rgb"}
+{"image": "00789.jpg", "text": "Is the building's exterior dark-colored?", "ground_truth_answer": "No", "question_id": 825, "category": "rgb", "q_category": "rgb"}
+{"image": "39742.jpg", "text": "Are the buildings constructed with red brick?", "ground_truth_answer": "Yes", "question_id": 827, "category": "rgb", "q_category": "rgb"}
+{"image": "04970.jpg", "text": "Is the wooden walkway structure painted?", "ground_truth_answer": "No", "question_id": 829, "category": "rgb", "q_category": "rgb"}
+{"image": "09815.jpg", "text": "Are there beams of sunlight breaking through the clouds?", "ground_truth_answer": "Yes", "question_id": 831, "category": "rgb", "q_category": "rgb"}
+{"image": "31606.jpg", "text": "Is the street lamp emitting a blue-tinted light?", "ground_truth_answer": "No", "question_id": 833, "category": "rgb", "q_category": "rgb"}
+{"image": "33546.jpg", "text": "Does the stonework show signs of weathering?", "ground_truth_answer": "Yes", "question_id": 835, "category": "rgb", "q_category": "rgb"}
+{"image": "37794.jpg", "text": "Are the navigation buoys colored orange?", "ground_truth_answer": "Yes", "question_id": 837, "category": "rgb", "q_category": "rgb"}
+{"image": "28409.jpg", "text": "Is it a sunny day in the image?", "ground_truth_answer": "No", "question_id": 839, "category": "rgb", "q_category": "rgb"}
+{"image": "38938.jpg", "text": "Are all the trees in the scene evergreen?", "ground_truth_answer": "No", "question_id": 841, "category": "rgb", "q_category": "rgb"}
+{"image": "24161.jpg", "text": "Is the 'No Entry' sign green in color?", "ground_truth_answer": "No", "question_id": 843, "category": "rgb", "q_category": "rgb"}
+{"image": "13672.jpg", "text": "Are the trees full of leaves?", "ground_truth_answer": "No", "question_id": 845, "category": "rgb", "q_category": "rgb"}
+{"image": "35762.jpg", "text": "Is it a cloudy day with grey skies?", "ground_truth_answer": "Yes", "question_id": 847, "category": "rgb", "q_category": "rgb"}
+{"image": "24969.jpg", "text": "Is the scene captured during daytime?", "ground_truth_answer": "No", "question_id": 849, "category": "rgb", "q_category": "rgb"}
+{"image": "23793.jpg", "text": "Are there any green trees or vegetation visible in the scene?", "ground_truth_answer": "No", "question_id": 851, "category": "rgb", "q_category": "rgb"}
+{"image": "02826.jpg", "text": "Is it a cloudy day with no sky visible?", "ground_truth_answer": "No", "question_id": 853, "category": "rgb", "q_category": "rgb"}
+{"image": "27417.jpg", "text": "Is there green grass visible in the foreground?", "ground_truth_answer": "Yes", "question_id": 855, "category": "rgb", "q_category": "rgb"}
+{"image": "19296.jpg", "text": "Is the building made of sandstone with Victorian-era architecture?", "ground_truth_answer": "Yes", "question_id": 857, "category": "rgb", "q_category": "rgb"}
+{"image": "18992.jpg", "text": "Is this a residential neighborhood?", "ground_truth_answer": "No", "question_id": 859, "category": "rgb", "q_category": "rgb"}
+{"image": "00425.jpg", "text": "Is the sky clear and blue?", "ground_truth_answer": "No", "question_id": 861, "category": "rgb", "q_category": "rgb"}
+{"image": "09311.jpg", "text": "Are the buildings shown in bright, vibrant colors?", "ground_truth_answer": "No", "question_id": 863, "category": "rgb", "q_category": "rgb"}
+{"image": "31258.jpg", "text": "Are all the buildings made of the same material?", "ground_truth_answer": "No", "question_id": 865, "category": "rgb", "q_category": "rgb"}
+{"image": "01306.jpg", "text": "Are the railings along the entrance ramp colored blue?", "ground_truth_answer": "Yes", "question_id": 867, "category": "rgb", "q_category": "rgb"}
+{"image": "29465.jpg", "text": "Are all the buildings modern in architectural style?", "ground_truth_answer": "No", "question_id": 869, "category": "rgb", "q_category": "rgb"}
+{"image": "17348.jpg", "text": "Is the pathway made of blue stone material?", "ground_truth_answer": "No", "question_id": 871, "category": "rgb", "q_category": "rgb"}
+{"image": "33410.jpg", "text": "Are there detailed ornate stone carvings visible on the tower?", "ground_truth_answer": "Yes", "question_id": 873, "category": "rgb", "q_category": "rgb"}
+{"image": "37674.jpg", "text": "Does the bridge appear as a dark silhouette against the sky in the RGB image?", "ground_truth_answer": "Yes", "question_id": 875, "category": "rgb", "q_category": "rgb"}
+{"image": "07410.jpg", "text": "Is the building constructed with red brick?", "ground_truth_answer": "Yes", "question_id": 877, "category": "rgb", "q_category": "rgb"}
+{"image": "16992.jpg", "text": "Are the buildings made of brick?", "ground_truth_answer": "Yes", "question_id": 879, "category": "rgb", "q_category": "rgb"}
+{"image": "41171.jpg", "text": "Are the clouds dark gray in color?", "ground_truth_answer": "No", "question_id": 881, "category": "rgb", "q_category": "rgb"}
+{"image": "07834.jpg", "text": "Are the fallen leaves on the ground brown and gold in color?", "ground_truth_answer": "Yes", "question_id": 883, "category": "rgb", "q_category": "rgb"}
+{"image": "06938.jpg", "text": "Are there autumn-colored trees visible in the background?", "ground_truth_answer": "Yes", "question_id": 885, "category": "rgb", "q_category": "rgb"}
+{"image": "36350.jpg", "text": "Is the sky partly cloudy with patches of blue?", "ground_truth_answer": "Yes", "question_id": 887, "category": "rgb", "q_category": "rgb"}
+{"image": "25625.jpg", "text": "Are the trees in the foreground full of leaves?", "ground_truth_answer": "No", "question_id": 889, "category": "rgb", "q_category": "rgb"}
+{"image": "23381.jpg", "text": "Is it bright daylight in the scene?", "ground_truth_answer": "No", "question_id": 891, "category": "rgb", "q_category": "rgb"}
+{"image": "40115.jpg", "text": "Is the sky completely clear blue without any clouds?", "ground_truth_answer": "No", "question_id": 893, "category": "rgb", "q_category": "rgb"}
+{"image": "02674.jpg", "text": "Is the maple tree's foliage a golden-yellow color?", "ground_truth_answer": "Yes", "question_id": 895, "category": "rgb", "q_category": "rgb"}
+{"image": "13980.jpg", "text": "Is the Newcastle University logo colored in the university's brand colors?", "ground_truth_answer": "Yes", "question_id": 897, "category": "rgb", "q_category": "rgb"}
+{"image": "10348.jpg", "text": "Is the neon signage of the restaurant pink in color?", "ground_truth_answer": "Yes", "question_id": 899, "category": "rgb", "q_category": "rgb"}
+{"image": "36478.jpg", "text": "Is the building's architectural style modern glass and steel?", "ground_truth_answer": "No", "question_id": 901, "category": "rgb", "q_category": "rgb"}
+{"image": "20349.jpg", "text": "Is the sky displaying pink and purple colors in the RGB image?", "ground_truth_answer": "Yes", "question_id": 903, "category": "rgb", "q_category": "rgb"}
+{"image": "06010.jpg", "text": "Is this scene captured during daytime?", "ground_truth_answer": "No", "question_id": 905, "category": "rgb", "q_category": "rgb"}
+{"image": "29025.jpg", "text": "Is the overall scene brightly lit?", "ground_truth_answer": "No", "question_id": 907, "category": "rgb", "q_category": "rgb"}
+{"image": "41195.jpg", "text": "Are there sunlight breaks filtering through the clouds?", "ground_truth_answer": "Yes", "question_id": 909, "category": "rgb", "q_category": "rgb"}
+{"image": "15300.jpg", "text": "Are all the windows made of clear glass?", "ground_truth_answer": "No", "question_id": 911, "category": "rgb", "q_category": "rgb"}
+{"image": "04490.jpg", "text": "Is the bamboo plant wilted or dried out?", "ground_truth_answer": "No", "question_id": 913, "category": "rgb", "q_category": "rgb"}
+{"image": "38094.jpg", "text": "Is there a yellow boat visible?", "ground_truth_answer": "Yes", "question_id": 915, "category": "rgb", "q_category": "rgb"}
+{"image": "28737.jpg", "text": "Is the sky completely dark without any bright patches?", "ground_truth_answer": "No", "question_id": 917, "category": "rgb", "q_category": "rgb"}
+{"image": "38478.jpg", "text": "Is the sky bright and sunny in the RGB image?", "ground_truth_answer": "No", "question_id": 919, "category": "rgb", "q_category": "rgb"}
+{"image": "29681.jpg", "text": "Is the tower built with light-colored stone?", "ground_truth_answer": "Yes", "question_id": 921, "category": "rgb", "q_category": "rgb"}
+{"image": "38854.jpg", "text": "Are there grey clouds visible in the RGB image?", "ground_truth_answer": "Yes", "question_id": 923, "category": "rgb", "q_category": "rgb"}
+{"image": "27917.jpg", "text": "Are there any flowering trees visible around the buildings?", "ground_truth_answer": "No", "question_id": 925, "category": "rgb", "q_category": "rgb"}
+{"image": "22581.jpg", "text": "Is the ocean surface rough with large waves?", "ground_truth_answer": "No", "question_id": 927, "category": "rgb", "q_category": "rgb"}
+{"image": "03014.jpg", "text": "Are the illuminated windows giving off a yellow light?", "ground_truth_answer": "Yes", "question_id": 929, "category": "rgb", "q_category": "rgb"}
+{"image": "02558.jpg", "text": "Are the fallen leaves on the ground brown and gold in color?", "ground_truth_answer": "Yes", "question_id": 931, "category": "rgb", "q_category": "rgb"}
+{"image": "09283.jpg", "text": "Is the text 'BUSES' written in white color on the road?", "ground_truth_answer": "Yes", "question_id": 933, "category": "rgb", "q_category": "rgb"}
+{"image": "04178.jpg", "text": "Is the ground clear of fallen leaves?", "ground_truth_answer": "No", "question_id": 935, "category": "rgb", "q_category": "rgb"}
+{"image": "32982.jpg", "text": "Are the cobblestones visible on the street surface?", "ground_truth_answer": "Yes", "question_id": 937, "category": "rgb", "q_category": "rgb"}
+{"image": "39790.jpg", "text": "Is there a green 'For Sale' sign on the property?", "ground_truth_answer": "No", "question_id": 939, "category": "rgb", "q_category": "rgb"}
+{"image": "39782.jpg", "text": "Is there a shop called 'Hinnies' visible in the image?", "ground_truth_answer": "Yes", "question_id": 941, "category": "rgb", "q_category": "rgb"}
+{"image": "26453.jpg", "text": "Is the primary vehicle in the foreground a sedan?", "ground_truth_answer": "Yes", "question_id": 943, "category": "rgb", "q_category": "rgb"}
+{"image": "30722.jpg", "text": "Is the stone foundation painted in bright yellow?", "ground_truth_answer": "No", "question_id": 945, "category": "rgb", "q_category": "rgb"}
+{"image": "07466.jpg", "text": "Is there dense foliage covering most of the building?", "ground_truth_answer": "No", "question_id": 947, "category": "rgb", "q_category": "rgb"}
+{"image": "00929.jpg", "text": "Is the staircase made of black metal?", "ground_truth_answer": "Yes", "question_id": 949, "category": "rgb", "q_category": "rgb"}
+{"image": "19504.jpg", "text": "Are the buildings constructed with honey-colored sandstone?", "ground_truth_answer": "Yes", "question_id": 951, "category": "rgb", "q_category": "rgb"}
+{"image": "14436.jpg", "text": "Are there colorful flower beds visible in the planted areas?", "ground_truth_answer": "No", "question_id": 953, "category": "rgb", "q_category": "rgb"}
+{"image": "23849.jpg", "text": "Does the building feature white stone architectural details?", "ground_truth_answer": "Yes", "question_id": 955, "category": "rgb", "q_category": "rgb"}
+{"image": "36902.jpg", "text": "Does the building have a modern glass facade?", "ground_truth_answer": "No", "question_id": 957, "category": "rgb", "q_category": "rgb"}
+{"image": "35894.jpg", "text": "Is the building's street-level facade painted dark green in the RGB image?", "ground_truth_answer": "Yes", "question_id": 959, "category": "rgb", "q_category": "rgb"}
+{"image": "07090.jpg", "text": "Is the wooden slatted structure painted blue?", "ground_truth_answer": "No", "question_id": 961, "category": "rgb", "q_category": "rgb"}
+{"image": "06606.jpg", "text": "Is there a blue sky visible in the image?", "ground_truth_answer": "No", "question_id": 963, "category": "rgb", "q_category": "rgb"}
+{"image": "05014.jpg", "text": "Does the scene appear to be captured during winter?", "ground_truth_answer": "No", "question_id": 965, "category": "rgb", "q_category": "rgb"}
+{"image": "23481.jpg", "text": "Is this a daytime photograph?", "ground_truth_answer": "No", "question_id": 967, "category": "rgb", "q_category": "rgb"}
+{"image": "09443.jpg", "text": "Is it a sunny day in the image?", "ground_truth_answer": "No", "question_id": 969, "category": "rgb", "q_category": "rgb"}
+{"image": "09147.jpg", "text": "Is the architectural style modern glass and steel?", "ground_truth_answer": "No", "question_id": 971, "category": "rgb", "q_category": "rgb"}
+{"image": "08398.jpg", "text": "Is it a sunny bright day in the image?", "ground_truth_answer": "No", "question_id": 973, "category": "rgb", "q_category": "rgb"}
+{"image": "10032.jpg", "text": "Is it a sunny day in the image?", "ground_truth_answer": "No", "question_id": 975, "category": "rgb", "q_category": "rgb"}
+{"image": "37826.jpg", "text": "Are the parked cars predominantly blue in color?", "ground_truth_answer": "No", "question_id": 977, "category": "rgb", "q_category": "rgb"}
+{"image": "23877.jpg", "text": "Is it daytime in the image?", "ground_truth_answer": "No", "question_id": 979, "category": "rgb", "q_category": "rgb"}
+{"image": "41227.jpg", "text": "Are the distant wind turbines painted in red and white?", "ground_truth_answer": "No", "question_id": 981, "category": "rgb", "q_category": "rgb"}
+{"image": "19144.jpg", "text": "Is the street surface made of asphalt?", "ground_truth_answer": "No", "question_id": 983, "category": "rgb", "q_category": "rgb"}
+{"image": "13580.jpg", "text": "Is the sky bright and sunny in the RGB image?", "ground_truth_answer": "No", "question_id": 985, "category": "rgb", "q_category": "rgb"}
+{"image": "10096.jpg", "text": "Is the door of the building turquoise in color?", "ground_truth_answer": "Yes", "question_id": 987, "category": "rgb", "q_category": "rgb"}
+{"image": "31114.jpg", "text": "Are the architectural details Gothic in style?", "ground_truth_answer": "Yes", "question_id": 989, "category": "rgb", "q_category": "rgb"}
+{"image": "12532.jpg", "text": "Are the exterior lights on the building turned off?", "ground_truth_answer": "No", "question_id": 991, "category": "rgb", "q_category": "rgb"}
+{"image": "24357.jpg", "text": "Is the pavement dry in the RGB image?", "ground_truth_answer": "No", "question_id": 993, "category": "rgb", "q_category": "rgb"}
+{"image": "14368.jpg", "text": "Is the grass in the foreground brown and dead?", "ground_truth_answer": "No", "question_id": 995, "category": "rgb", "q_category": "rgb"}
+{"image": "32326.jpg", "text": "Is the stone exterior of the cathedral light-colored?", "ground_truth_answer": "Yes", "question_id": 997, "category": "rgb", "q_category": "rgb"}
+{"image": "34574.jpg", "text": "Are the window frames black in color?", "ground_truth_answer": "No", "question_id": 999, "category": "rgb", "q_category": "rgb"}

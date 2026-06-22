@@ -1,0 +1,31 @@
+# DualVision — pinned dependencies (verified working on CUDA 12.1, Python 3.10, A100).
+#
+# torch/torchvision must match your CUDA driver. The +cu121 builds below are
+# installed from the PyTorch index:
+#   pip install torch==2.1.2 torchvision==0.16.2 --index-url https://download.pytorch.org/whl/cu121
+#
+# flash-attn is optional but recommended; install AFTER torch:
+#   pip install flash-attn==2.5.8 --no-build-isolation
+# (or grab the matching prebuilt wheel from the flash-attention releases page).
+
+# setuptools<70 keeps pkg_resources available, which deepspeed imports at load time
+# (newer setuptools removed it). wheel is needed to build the editable install.
+setuptools<70
+wheel
+torch==2.1.2
+torchvision==0.16.2
+transformers==4.37.2
+tokenizers==0.15.1
+peft==0.10.0
+accelerate==0.32.0
+bitsandbytes==0.43.3
+deepspeed==0.14.4
+sentencepiece==0.1.99
+protobuf                 # required by the LLaMA tokenizer conversion in transformers
+einops==0.6.1
+einops-exts==0.0.4
+timm==0.6.13
+pillow==10.4.0
+numpy==1.26.4
+scikit-learn==1.2.2
+shortuuid==1.0.13
