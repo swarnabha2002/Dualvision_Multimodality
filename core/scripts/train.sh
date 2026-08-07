@@ -76,7 +76,7 @@ deepspeed llava/train/train_mem.py \
     --save_strategy "steps" \
     --save_steps 50000 \
     --save_total_limit 1 \
-    --learning_rate 2e-4 \
+    --learning_rate 2e-5 \
     --weight_decay 0. \
     --warmup_ratio 0.03 \
     --lr_scheduler_type "cosine" \
@@ -89,4 +89,4 @@ deepspeed llava/train/train_mem.py \
     --report_to none
 
 echo "=== Training done. Evaluating on dv500_${version} ==="
-bash "$(dirname "$0")/eval.sh" "${ckpt_path}" "${version}" "${answer_file}"
+DATA_ROOT="${DATA_ROOT}" NUM_GPUS="${NUM_GPUS}" bash "$(dirname "$0")/eval.sh" "${ckpt_path}" "${version}" "${answer_file}"

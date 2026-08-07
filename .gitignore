@@ -58,3 +58,6 @@ tmp/
 *.safetensors
 checkpoints/
 wandb/
+data/
+runs/
+*.jsonl
